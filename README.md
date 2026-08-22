@@ -1,151 +1,162 @@
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Aditya Bansode </h1>
+<h3 align="center">Full-Stack Developer · React.js · Backend · API Crafter</h3>
 
-# Hi, I'm Aditya Bansode
+<!-- TYPING SVG – Terminal vibes -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85B44&center=true&width=435&lines=Building+Full-Stack+Apps;API+Wizard;React+Enthusiast;Computer+Vision+Explorer;Turning+Idea+%E2%86%92+Product" alt="Typing SVG">
+  </a>
+</p>
 
-### 💻 Software Developer | React.js | JavaScript | Backend
-
-Computer Science Engineering student focused on building responsive web applications, backend services, and API-driven systems.
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehakl&color=blueviolet" alt="Profile Views">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering student at Jaypee Institute of Information Technology.
+🎓 **Computer Science Engineering** student at Jaypee Institute of Information Technology, Noida.
 
-💻 Focused on building responsive web applications, backend services, and API-driven systems.
+💻 I build **responsive web applications**, **backend services**, and **API‑driven systems** that actually do stuff.
 
-⚛️ Working with React.js, JavaScript, Node.js, Express.js, FastAPI, Flask, and REST APIs.
+⚛️ My stack: **React.js**, **Node.js**, **Express.js**, **FastAPI**, **Flask**, and a splash of **Python** magic.
 
-🧩 Interested in reusable frontend components, authentication workflows, and database-backed applications.
+🔐 I enjoy crafting **authentication workflows**, reusable frontend components, and database-backed solutions that don't break at 2 AM.
 
-🤖 Exploring practical applications of Machine Learning, Computer Vision, and OCR in full-stack products.
+🤖 I'm deep into **applied Machine Learning**, **Computer Vision**, and **OCR** — and I love integrating them into full‑stack products.
 
-🧠 Currently strengthening Data Structures & Algorithms and software engineering fundamentals.
-
-🔨 I enjoy turning ideas into functional, user-focused products.
+🔨 My mantra: turn ideas into functional, user‑focused products. No fluff, just code.
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧩 Languages
-
-`JavaScript` `Python` `C++` `SQL`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Frontend
-
-`React.js` `HTML5` `CSS3` `Responsive Web Design`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
-
-`Node.js` `Express.js` `FastAPI` `Flask` `REST APIs`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-`MongoDB` `MySQL` `SQLite`
-
-### 🛠️ Tools
-
-`Git` `GitHub` `Postman` `Docker` `VS Code`
+### 🛠️ Tools & Core CS
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🧠 Core CS
-
-`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
 
 ### 🔬 Additional
-
-`OpenCV` `OCR` `JWT Authentication` `Machine Learning`
+`OpenCV` · `OCR` · `JWT Authentication` · `Machine Learning` · `REST APIs`
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🪪 AI-Powered KYC Onboarding Simulator
-
-Full-stack KYC verification application for document and identity verification.
+Full‑stack identity verification system with document OCR, face matching, and a React dashboard.
 
 **Stack:** Python · FastAPI · React · EasyOCR · DeepFace · OpenCV · Docker
 
-* 📄 Document upload and information extraction
-* 🔐 Identity verification workflows
-* 📷 Webcam-based verification
-* ⚛️ Interactive React dashboard
-* 👁️ OCR and computer-vision integration
-* 🐳 Dockerized backend
-* ☁️ Deployed using Render and Vercel
+- 📄 Document upload & info extraction  
+- 🔐 Identity verification with webcam capture  
+- 📊 Interactive React dashboard for results  
+- 🐳 Dockerized backend, deployed on Render + Vercel  
 
-🔗 **Repository:** Coming soon
+🔗 **Repo:** *Coming soon*
 
 ---
 
-### 🛍️ RecoBase — AI Shopping Assistant
-
-Browser-based shopping assistant that extracts product information from e-commerce pages and provides recommendations.
+### 🛍️ RecoBase: Neural Recommendation & AI Shopping Assistant
+A browser extension that extracts product data from e‑commerce pages and serves up smart recommendations via a FastAPI backend.
 
 **Stack:** JavaScript · Chrome Extension · FastAPI · REST APIs · Redis
 
-* 🔎 DOM-based product information extraction
-* ⚡ Dynamic browser-side UI rendering
-* 🔌 FastAPI REST API integration
-* 🧠 Product-context processing
-* 🔄 Context tracking across recommendation workflows
+- 🔎 DOM parsing for product details (title, price, description, image)  
+- ⚡ Dynamic in‑page UI without reloads  
+- 🧠 Context tracking across recommendation workflows  
+- 🔌 REST API integration with Redis caching  
 
-🔗 **Repository:** Coming soon
+🔗 **Repo:** *Coming soon*
 
 ---
 
 ### 🏥 Medical Analyzer & Nutrition Analysis
+Healthcare platform that processes medical reports to deliver disease‑risk predictions and personalized nutrition advice.
 
-Full-stack healthcare application for medical-report processing, disease-risk analysis, and personalized recommendations.
+**Stack:** Python · Flask · REST APIs · SQLite · Scikit‑learn · XGBoost · Kotlin
 
-**Stack:** Python · Flask · REST APIs · SQLite · Scikit-learn · XGBoost · Kotlin
+- 📄 OCR‑powered report processing  
+- 🧠 ML workflows: XGBoost, Random Forest, Logistic Regression  
+- 📱 Jetpack Compose UI for mobile  
+- 🗄️ SQLite for user profiles and history  
 
-* 📄 Medical report processing
-* 🔌 Flask REST API integration
-* 🧠 XGBoost, Random Forest & Logistic Regression workflows
-* 📱 Jetpack Compose UI components
-* 🗄️ SQLite-based profile and analysis-history storage
-
-🔗 **Repository:** Coming soon
-
----
-
-## 🏆 Achievements
-
-* 🧠 Solved **100+ DSA problems** across LeetCode and GeeksforGeeks
-* 🚀 Built and deployed an **AI-based KYC verification system** integrating OCR, face verification, and computer vision
+🔗 **Repo:** *Coming soon*
 
 ---
 
 ## 📚 Currently Learning
 
-⚛️ Advanced React & Frontend Architecture
-⚙️ Backend Engineering & API Design
-🧠 Data Structures & Algorithms
-🐙 Professional Git & GitHub Workflows
-🤖 Machine Learning Fundamentals
-🚀 Production-Ready Full-Stack Development
+- ⚛️ Advanced React patterns & frontend architecture  
+- ⚙️ API design & backend engineering best practices  
+- 🧠 Data Structures & Algorithms (for the fun of it)  
+- 🐙 Professional Git workflows (because `git push --force` isn't always the answer)  
+- 🤖 Production‑ready full‑stack deployment strategies  
 
 ---
 
 ## 🎯 Areas of Interest
 
-💻 Full-Stack Development
-⚛️ Frontend Engineering
-⚙️ Backend & API Development
-🧩 Software Engineering
-🤖 Applied AI / Machine Learning
-👁️ Computer Vision & OCR
+- Full‑Stack Development  
+- Frontend Engineering (React)  
+- Backend & API Design  
+- Software Engineering  
+- Applied AI / Machine Learning  
+- Computer Vision & OCR  
 
 ---
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** [Your LinkedIn URL]  
+📧 **Email:** [adityabansode2104@gmail.com](mailto:adityabansode2104@gmail.com)  
+🐙 **GitHub:** [ehakl](https://github.com/ehakl)  
+📄 **Resume:** [Your resume link if any]  
 
-📄 **Resume:** YOUR_RESUME_URL
+---
 
-📧 **Email:** [adityabansode2104@gmail.com](mailto:adityabansode2104@gmail.com)
+## 📊 GitHub Stats
 
-🐙 **GitHub:** [ehakl](https://github.com/ehakl)
+<!-- These auto-update with your real data -->
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehakl&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical)
 
-🧩 **LeetCode:** YOUR_LEETCODE_URL
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehakl&theme=radical)
+
+<!-- Trophy case – shows off your achievements without mentioning LeetCode numbers -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ehakl&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<p align="center">
+  <b>⚡ “Build things that matter. Break things that don’t.” ⚡</b>
+</p>
