@@ -130,7 +130,7 @@ Healthcare platform that processes medical reports to deliver disease‑risk pre
 💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-bansode-ab18a833a/]  
 📧 **Email:** [adityabansode2104@gmail.com](mailto:adityabansode2104@gmail.com)  
 🐙 **GitHub:** [ehakl](https://github.com/ehakl)  
-📄 **Resume:** []  
+📄 **Resume:** [https://drive.google.com/file/d/16Na8fqBx61wIcrdp0s3ftUjDcvw3oC8e/view?usp=sharing]  
 
 ---
 
