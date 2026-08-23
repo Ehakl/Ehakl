@@ -1,18 +1,8 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Aditya Bansode </h1>
-<h3 align="center">Full-Stack Developer · React.js · Backend · API Crafter</h3>
+# Hi, I'm Aditya Bansode
 
-<!-- TYPING SVG – Terminal vibes -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85B44&center=true&width=435&lines=Building+Full-Stack+Apps;API+Wizard;React+Enthusiast;Computer+Vision+Explorer;Turning+Idea+%E2%86%92+Product" alt="Typing SVG">
-  </a>
-</p>
+### 💻 Software Developer | React.js | JavaScript | Backend
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehakl&color=blueviolet" alt="Profile Views">
-</p>
+Computer Science Engineering student focused on building responsive web applications, backend services, and API-driven systems.
 
 ---
 
@@ -118,7 +108,7 @@ Healthcare platform that processes medical reports to deliver disease‑risk pre
 
 - ⚛️ Advanced React patterns & frontend architecture  
 - ⚙️ API design & backend engineering best practices  
-- 🧠 Data Structures & Algorithms (for the fun of it)  
+- 🧠 Data Structures & Algorithms   
 - 🐙 Professional Git workflows (because `git push --force` isn't always the answer)  
 - 🤖 Production‑ready full‑stack deployment strategies  
 
@@ -137,10 +127,10 @@ Healthcare platform that processes medical reports to deliver disease‑risk pre
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:** [Your LinkedIn URL]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-bansode-ab18a833a/]  
 📧 **Email:** [adityabansode2104@gmail.com](mailto:adityabansode2104@gmail.com)  
 🐙 **GitHub:** [ehakl](https://github.com/ehakl)  
-📄 **Resume:** [Your resume link if any]  
+📄 **Resume:** []  
 
 ---
 
