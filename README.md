@@ -72,7 +72,7 @@ Full‑stack identity verification system with document OCR, face matching, and 
 - 📊 Interactive React dashboard for results  
 - 🐳 Dockerized backend, deployed on Render + Vercel  
 
-🔗 **Repo:** *Coming soon*
+🔗 **Repo:** *(https://github.com/Ehakl/KYC-onboarding-simulator-)*
 
 ---
 
