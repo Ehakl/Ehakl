@@ -86,7 +86,7 @@ A browser extension that extracts product data from e‑commerce pages and serve
 - 🧠 Context tracking across recommendation workflows  
 - 🔌 REST API integration with Redis caching  
 
-🔗 **Repo:** *Coming soon*
+🔗 **Repo:** *(https://github.com/Ehakl/reco-base)*
 
 ---
 
