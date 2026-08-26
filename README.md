@@ -91,7 +91,7 @@ A browser extension that extracts product data from e‑commerce pages and serve
 ---
 
 ### 🏥 Medical Analyzer & Nutrition Analysis
-Healthcare platform that processes medical reports to deliver disease‑risk predictions and personalized nutrition advice.
+Healthcare web application that processes medical reports to deliver disease‑risk predictions and personalized nutrition advice.
 
 **Stack:** Python · Flask · REST APIs · SQLite · Scikit‑learn · XGBoost · Kotlin
 
@@ -100,7 +100,7 @@ Healthcare platform that processes medical reports to deliver disease‑risk pre
 - 📱 Jetpack Compose UI for mobile  
 - 🗄️ SQLite for user profiles and history  
 
-🔗 **Repo:** *Coming soon*
+🔗 **Repo:** *(https://github.com/Ehakl/medical-analyzer)*
 
 ---
 
