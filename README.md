@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aditya Bansode &nbsp;&nbsp; <img src="cat.svg" width="120" align="absmiddle"></h1>
+<h1>Hi, I'm Aditya Bansode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="cat.svg" width="180" align="absmiddle"></h1>
 
 ### 💻 Software Developer | React.js | JavaScript | Backend
 
@@ -163,7 +163,7 @@ Healthcare web application that processes medical reports to deliver disease‑r
 -(((---(((--------
 `
 
-<h1>Hi, I'm Aditya Bansode &nbsp;&nbsp; <img src="cat.svg" width="120" align="absmiddle"></h1>
+<h1>Hi, I'm Aditya Bansode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="cat.svg" width="180" align="absmiddle"></h1>
 
 ### 💻 Software Developer | React.js | JavaScript | Backend
 
