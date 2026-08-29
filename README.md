@@ -4,8 +4,8 @@
 
 Computer Science Engineering student focused on building responsive web applications, backend services, and API-driven systems.
 
-
 ---
+
 ## 🚀 About Me
 
 🎓 **Computer Science Engineering** student at Jaypee Institute of Information Technology, Noida.
@@ -150,21 +150,3 @@ Healthcare web application that processes medical reports to deliver disease‑r
 <p align="center">
   <b>⚡ “Build things that matter. Break things that don’t.” ⚡</b>
 </p>
-
----
-
-## 🐍 Contribution Graph (Animation)
-
-*(Action required: Go to your repo settings to enable the Snake Action!)*
-
-`	ext
-   |\__/,|   (\
- _.|o o  |_   ) )
--(((---(((--------
-`
-
-<h1>Hi, I'm Aditya Bansode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="cat.svg" width="180" align="absmiddle"></h1>
-
-### 💻 Software Developer | React.js | JavaScript | Backend
-
-Computer Science Engineering student focused on building responsive web applications, backend services, and API-driven systems.
