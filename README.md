@@ -1,11 +1,5 @@
 <img src="cat.svg" align="right" width="220">
 
-`	ext
-   |\__/,|   (\
- _.|o o  |_   ) )
--(((---(((--------
-`
-
 # Hi, I'm Aditya Bansode
 
 ### 💻 Software Developer | React.js | JavaScript | Backend
