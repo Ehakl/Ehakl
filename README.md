@@ -153,7 +153,7 @@ Healthcare web application that processes medical reports to deliver disease‑r
 
 ---
 
-## 🐍 Contribution Graph (Animation)
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
