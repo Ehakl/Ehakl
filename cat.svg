@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="80">
+  <style>
+    text { font-family: monospace; font-size: 16px; fill: #c9d1d9; font-weight: bold; }
+    @media (prefers-color-scheme: light) { text { fill: #24292f; } }
+  </style>
+  <text x="0" y="20" xml:space="preserve">   |\__/,|   (\</text>
+  <text x="0" y="40" xml:space="preserve"> _.|o o  |_   ) )</text>
+  <text x="0" y="60" xml:space="preserve">-(((---(((--------</text>
+</svg>

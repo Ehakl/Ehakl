@@ -1,3 +1,5 @@
+<img src="cat.svg" align="right" width="220">
+
 `	ext
    |\__/,|   (\
  _.|o o  |_   ) )
