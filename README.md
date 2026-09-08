@@ -137,13 +137,19 @@ Healthcare web application that processes medical reports to deliver disease‑r
 ## 📊 GitHub Stats
 
 <!-- These auto-update with your real data -->
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehakl&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehakl&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehakl&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ehakl&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!-- Trophy case – shows off your achievements without mentioning LeetCode numbers -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ehakl&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy case – shows off your achievements -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ehakl&theme=radical&no-frame=true&margin-w=10&column=6" alt="trophy" />
+</p>
 
 ---
 
