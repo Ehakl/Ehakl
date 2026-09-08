@@ -138,8 +138,8 @@ Healthcare web application that processes medical reports to deliver disease‑r
 
 <!-- These auto-update with your real data -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ehakl&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ehakl&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ Healthcare web application that processes medical reports to deliver disease‑r
 
 <!-- Trophy case – shows off your achievements -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ehakl&theme=radical&no-frame=true&margin-w=10&column=6" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=ehakl&theme=radical&no-frame=true&margin-w=10&column=6" alt="trophy" />
 </p>
 
 ---
