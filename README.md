@@ -138,8 +138,8 @@ Healthcare web application that processes medical reports to deliver disease‑r
 
 <!-- These auto-update with your real data -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehakl&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ehakl&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ehakl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
