@@ -146,11 +146,6 @@ Healthcare web application that processes medical reports to deliver disease‑r
   <img src="https://streak-stats.demolab.com/?user=ehakl&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Trophy case – shows off your achievements -->
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ehakl&theme=radical&no-frame=true&margin-w=10&column=6" alt="trophy" />
-</p>
-
 ---
 
 <p align="center">
